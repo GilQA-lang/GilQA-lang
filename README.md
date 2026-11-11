@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Gilkeira 👋
 
-<!--
-**GilQA-lang/GilQA-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Quality Engineer** · Test Automation & AI-Augmented Testing · Lima, Perú
 
-Here are some ideas to get you started:
+Diseño y gobierno pruebas asistidas por IA de punta a punta: del criterio de aceptación al caso de prueba
+trazable, la automatización end-to-end con Playwright y TypeScript, y el defecto en Azure DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 Método de Quality Engineering asistido por IA: **1.849 casos trazables en 4 productos**
+- 🔁 Mejora continua con evidencia: cada corrección se verifica con pruebas de mutación
+- 🤝 Referencia técnica para 5 analistas
+
+**Stack:** Playwright · TypeScript · Node.js · Claude Code · Azure DevOps · PostgreSQL · JMeter
+**Certificaciones:** ISTQB CTFL · ISTQB CTFL-AT · Professional Scrum Master I
+
+📂 [Portafolio y caso de estudio](https://gilqa-lang.github.io/Portafolio/) ·
+💼 [LinkedIn](https://www.linkedin.com/in/gilkeira-pereira-qe)
