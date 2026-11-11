@@ -10,6 +10,7 @@ trazable, la automatización end-to-end con Playwright y TypeScript, y el defect
 - 🤝 Referencia técnica para 5 analistas
 
 **Stack:** Playwright · TypeScript · Node.js · Claude Code · Azure DevOps · PostgreSQL · JMeter
+
 **Certificaciones:** ISTQB CTFL · ISTQB CTFL-AT · Professional Scrum Master I
 
 📂 [Portafolio y caso de estudio](https://gilqa-lang.github.io/Portafolio/) ·
